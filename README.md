@@ -2,10 +2,7 @@
 
 A project for SmartMethods Internship, the software development process of a robotic base&arm.
 
--Firest, I designed a Web page to control the Base of arm  , API (Application Programming Interface) using html, css, javascript to controls the movement of the base .
-
--Then I copmined the two web pages into one page to make it easy to a user to controol both at the same page. 
-
+-Firest, I designed a Web page to control the Base of arm  , API (Application Programming Interface) using html, css, javascript to controls the movement of the base, then I copmined the two web pages into one page to make it easy to a user to controol both at the same page. 
 
    ![page](https://user-images.githubusercontent.com/74800962/123559044-6b4fd580-d7a2-11eb-844a-1481df0785cf.gif)
    
@@ -28,7 +25,7 @@ Also, I add a helpful additions which are :
 
 These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 
--Then I designed 3 Web pages -Directions.php- to display the last record inserted in Directions,Engines and Run table which contained the value of the Direction which the last user choosed.
+-Then I designed 3 Web pages to display the last record inserted in Directions,Engines and Run table which contained the value of the Direction which the last user choosed.
 -Directions.php- 
 ![D](https://user-images.githubusercontent.com/74800962/123559929-d2bc5400-d7a7-11eb-88f8-dc081467284f.gif)
 
