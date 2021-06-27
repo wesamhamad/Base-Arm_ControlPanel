@@ -33,14 +33,19 @@ These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 ![D](https://user-images.githubusercontent.com/74800962/123559929-d2bc5400-d7a7-11eb-88f8-dc081467284f.gif)
 
 -Engines.php- 
+
 ![Engines](https://user-images.githubusercontent.com/74800962/122818802-5080eb00-d2e2-11eb-9824-ffd2ead859c7.gif)
 
 -Run.php- 
+
 ![Run](https://user-images.githubusercontent.com/74800962/122818511-f97b1600-d2e1-11eb-9ba0-d4201c614be3.gif)
 
 
 -Finally, I made the web page responsive to a Tablets and mobile phones .
 
+![responsive](https://user-images.githubusercontent.com/74800962/123560139-3a26d380-d7a9-11eb-953f-43e001fd4afe.gif)
 
+I faced a problem,
+which is: the value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it whith buttons.
 
 A Pen created on CodePen.io. Original URL: https://codepen.io/wesam_aljuriash/pen/ZEKzwGo
