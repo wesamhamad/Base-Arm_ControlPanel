@@ -28,14 +28,19 @@ Also, I add a helpful additions which are :
 
 These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 
--Then I designed a Web page -Directions.php- to display the last record inserted in Directions table which contained the value of the Direction which the last user choosed.
+-Then I designed 3 Web pages -Directions.php- to display the last record inserted in Directions,Engines and Run table which contained the value of the Direction which the last user choosed.
+-Directions.php- 
+![D](https://user-images.githubusercontent.com/74800962/123559929-d2bc5400-d7a7-11eb-88f8-dc081467284f.gif)
 
+-Engines.php- 
+![Engines](https://user-images.githubusercontent.com/74800962/122818802-5080eb00-d2e2-11eb-9824-ffd2ead859c7.gif)
+
+-Run.php- 
 ![Run](https://user-images.githubusercontent.com/74800962/122818511-f97b1600-d2e1-11eb-9ba0-d4201c614be3.gif)
 
 
 -Finally, I made the web page responsive to a Tablets and mobile phones .
 
-![Engines](https://user-images.githubusercontent.com/74800962/122818802-5080eb00-d2e2-11eb-9824-ffd2ead859c7.gif)
 
 
 A Pen created on CodePen.io. Original URL: https://codepen.io/wesam_aljuriash/pen/ZEKzwGo
