@@ -22,7 +22,6 @@ Also, I add a helpful additions which are :
  ![db](https://user-images.githubusercontent.com/74800962/123559536-4315a600-d7a5-11eb-8631-797859fea187.gif)
 
 
-
 These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 
 -Then I designed 3 Web pages to display the last record inserted in Directions,Engines and Run tables which contained the value of the Direction which the last user choosen.
@@ -42,6 +41,8 @@ These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 -Finally, I made the web page responsive to a Tablets and mobile phones .
 
 ![Responsive_pages](https://user-images.githubusercontent.com/74800962/123561022-af48d780-d7ae-11eb-8f76-4027035c11c3.gif)
+
+I use XAMPP to host my web pages on a localhost.
 
 While I was developing I faced two problems,which are: 
 
