@@ -10,17 +10,20 @@ A project for SmartMethods Internship, the software development process of a rob
    ![page](https://user-images.githubusercontent.com/74800962/123559044-6b4fd580-d7a2-11eb-844a-1481df0785cf.gif)
    
 Also, I add a helpful additions which are : 
-   1- Text box show the last saved value.
-   2- Bouttons to choose some special angles and to reset .
-   3- The last Engine can be hidden .
+   
+  1- Text box show the last saved value.
+  
+  2- Bouttons to choose some special angles and to reset .
+  
+  3- The last Engine can be hidden .
    
    ![addition](https://user-images.githubusercontent.com/74800962/123559271-adc5e200-d7a3-11eb-8abd-e082046f1ea8.gif)
-   ![db](https://user-images.githubusercontent.com/74800962/123559536-4315a600-d7a5-11eb-8631-797859fea187.gif)
-
-
+ 
 -After that I designed a database with one tables(Direction) and I previously add the (Engines,Run) tables then I conected it with the Interface to insert values of each engine, direction and where it on  into corresponding column of the table.
 
 ![dbd](https://user-images.githubusercontent.com/74800962/123559503-0a75cc80-d7a5-11eb-9ad5-fe360c75a219.gif)
+ ![db](https://user-images.githubusercontent.com/74800962/123559536-4315a600-d7a5-11eb-8631-797859fea187.gif)
+
 
 
 These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
