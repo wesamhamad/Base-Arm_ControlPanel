@@ -45,7 +45,9 @@ These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
 
 ![responsive](https://user-images.githubusercontent.com/74800962/123560139-3a26d380-d7a9-11eb-953f-43e001fd4afe.gif)
 
-I faced a problem,
-which is: the value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it whith buttons.
+I faced two problems,
+which are: 
+1-(span element) which have value of range slider doesn't update the value while I move it on mobile view, I found that onmousemove event is the source of error so, I use onchange (for mobile and tablet pages) & onmouseover (for desktop page).
+2-The value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it whith buttons.
 
 A Pen created on CodePen.io. Original URL: https://codepen.io/wesam_aljuriash/pen/ZEKzwGo
