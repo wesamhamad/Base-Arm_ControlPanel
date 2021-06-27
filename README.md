@@ -4,6 +4,7 @@
 A project for SmartMethods Internship, the software development process of a robotic base&arm.
 
 -Firest, I designed a Web page to control the Base of arm  , API (Application Programming Interface) using html, css, javascript to controls the movement of the base .
+![page](https://user-images.githubusercontent.com/74800962/123559044-6b4fd580-d7a2-11eb-844a-1481df0785cf.gif)
 
 -Then I copmined the two web pages into one page to make it easy to a user to controol both at the same page , I add a helpful additions which are : 
    1- Text box show the last saved value.
