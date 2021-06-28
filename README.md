@@ -47,8 +47,8 @@ I use XAMPP to host my web pages on a localhost.
 
 While I was developing I faced two problems,which are: 
 
-1-(span element) which have value of range slider doesn't show the value while I move it on mobile view, I found that onmousemove event is the source of problem so, I use onchange (for mobile and tablet pages) & onmouseover (for desktop page).
+1-(span element) which have value of range slider doesn't show the value while I moving it on mobile view, I found that onmousemove event is the source of problem so, I use both events onchange (for mobile and tablet pages) & onmouseover (for desktop page).
 
-2-The value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it whith buttons.
+2-The value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it with buttons.
 
 A Pen created on CodePen.io. Original URL: https://codepen.io/wesam_aljuriash/pen/ZEKzwGo
