@@ -2,22 +2,25 @@
 
 A project for SmartMethods Internship, the software development process of a robotic base&arm.
 
--First, I designed a Web page to control the Base of arm  , API (Application Programming Interface) using html, css, javascript to controls the movement of the base, then I combined the two web pages into one page to make it easy to a user to controol both at the same page. 
+## Steps :
+
+ **First**, I designed a Web page to control the Base of arm  , API (Application Programming Interface) using html, css, javascript to controls the movement of the base, then I combined the two web pages into one page to make it easy to a user to controol both at the same page. 
+
 
    ![page](https://user-images.githubusercontent.com/74800962/123559044-6b4fd580-d7a2-11eb-844a-1481df0785cf.gif)
    
-Also, I add a helpful additions which are : 
+### Also, I add a helpful additions which are : 
    
-  1- Number boxes shows the last saved value.
+  #### 1- Number boxes shows the last saved value.
   
-  2- Bouttons to choose some special angles (180-90-45-30) and to reset (0) .
+ #### 2- Bouttons to choose some special angles (180-90-45-30) and to reset (0) .
   
-  3- The last Engine can be hidden .
+ #### 3- The last Engine can be hidden .
    
   ![add](https://user-images.githubusercontent.com/74800962/123562309-a825c780-d7b6-11eb-8cd9-43ff3da99633.gif)
 
  
--After that I designed a database with table(Direction) and I previously add the (Engines,Run) tables then I conected it with the Interface to insert values of each engine, direction and where it on  into corresponding columns of the table.
+**After** that I designed a database with table(Direction) and I previously add the (Engines,Run) tables then I conected it with the Interface to insert values of each engine, direction and where it on  into corresponding columns of the table.
 
 ![dbd](https://user-images.githubusercontent.com/74800962/123559503-0a75cc80-d7a5-11eb-9ad5-fe360c75a219.gif)
  ![db](https://user-images.githubusercontent.com/74800962/123559536-4315a600-d7a5-11eb-8631-797859fea187.gif)
