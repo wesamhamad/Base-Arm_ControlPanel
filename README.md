@@ -1,4 +1,4 @@
-# Base&Arm_ControlPanel
+# Base&Arm ControlPanel
 
 A project for SmartMethods Internship, the software development process of a robotic base&arm.
 
@@ -26,32 +26,40 @@ A project for SmartMethods Internship, the software development process of a rob
  ![db](https://user-images.githubusercontent.com/74800962/123559536-4315a600-d7a5-11eb-8631-797859fea187.gif)
 
 
+```
 These  tasks are in base.php file and ROBOT_CONTROLLERS.sql
+```
 
--Then I designed 3 Web pages to display the last record inserted in Directions,Engines and Run tables which contained the value of the Direction which the last user choosen.
+**Then** I designed 3 Web pages to display the last record inserted in Directions,Engines and Run tables which contained the value of the Direction which the last user choosen.
 -Directions.php- 
 
 ![responsive](https://user-images.githubusercontent.com/74800962/123560139-3a26d380-d7a9-11eb-953f-43e001fd4afe.gif)
 
--Engines.php- 
+| Engines.php |
+| --- |
 
 ![Engines](https://user-images.githubusercontent.com/74800962/122818802-5080eb00-d2e2-11eb-9824-ffd2ead859c7.gif)
 
--Run.php- 
+
+| Run.php |
+| --- |
 
 ![Run](https://user-images.githubusercontent.com/74800962/122818511-f97b1600-d2e1-11eb-9ba0-d4201c614be3.gif)
 
 
--Finally, I made the web page responsive to a Tablets and mobile phones .
+**Finally**, I made the web page responsive to a Tablets and mobile phones .
 
 ![Responsive_pages](https://user-images.githubusercontent.com/74800962/123561022-af48d780-d7ae-11eb-8f76-4027035c11c3.gif)
 
-I use XAMPP to host my web pages on a localhost.
+| I use XAMPP to host my web pages on a localhost. |
+| --- |
 
-While I was developing I faced two problems,which are: 
+## Problems:
 
-1-(span element) which have value of range slider doesn't show the value while I moving it on mobile view, I found that onmousemove event is the source of problem so, I use both events onchange (for mobile and tablet pages) & onmouseover (for desktop page).
+##### While I was developing I faced two problems,which are: 
 
-2-The value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it with buttons.
+####   1- (span element) which have value of range slider doesn't show the value while I moving it on mobile view, I found that onmousemove event is the source of problem so, I use both events onchange (for mobile and tablet pages) & onmouseover (for desktop page).
 
-A Pen created on CodePen.io. Original URL: https://codepen.io/wesam_aljuriash/pen/ZEKzwGo
+ ####  2- The value of range slider doesn't change when I click any of special angeles buttons, I tried untill finally solved it by connect the slider value (span element) with the input type "number" and then connect the it with buttons.
+
+A Pen created on CodePen.io. [Original URL]( https://codepen.io/wesam_aljuriash/pen/ZEKzwGo ).
